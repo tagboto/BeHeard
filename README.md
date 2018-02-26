@@ -16,3 +16,6 @@ RESULTS.
 My program works effectively in the perfect environment however it is still prone to error if the environment is too noisy
 It determines the signs used based on the number of fingers held up but can often confuse them
 I can so far recognize 5 static signs: B,D,C,5 and I love you
+
+
+https://drive.google.com/file/d/1kN3XEm8GilWdI_0EFiDbwq9XJmoHtubT/view?usp=sharing
